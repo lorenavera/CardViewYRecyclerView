@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CardViewYRecyclerView</string>
+    <string name="titulo">LOS SIMPSONS</string>
+    <string name="tituloHomero">Homero Simpson</string>
+    <string name="textHomero">Personaje principal de la serie Los Simpsons, se casó con Marge Bouvier y tienen tres hijos: Bart, Lisa y Maggie.</string>
+    <string name="tituloMarge">Marge Simpson</string>
+    <string name="textMarge">Esposa de Homero Simpson y madre de tres hijos: Bart, Lisa y Maggie.</string>
+    <string name="tituloBart">Bart Simpson</string>
+    <string name="textBart">Es el primer hijo de la familia Simpson, tiene diez años, es el más rebelde y más travieso de la familia.</string>
+    <string name="tituloLisa">Lisa Simpson</string>
+    <string name="textLisa">Lisa es la segunda hija de Homero y Marge; es la niñita de ocho años superdotada, activista, idealista, responsable y frustrada.</string>
+    <string name="tituloMaggie">Maggie Simpson</string>
+    <string name="textMaggie">Es la tercera hija de Homero y Marge, tiene un año, su primera palabra fue papi, es muy inteligente, Maggie es la favorita de Homero.</string>
+</resources>
